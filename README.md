@@ -24,10 +24,10 @@ Portfolio-ready exploratory analysis of **600 fictional retail orders in India**
 Costs vary by product and are baked into the synthetic generated data. This is an illustrative operating profit proxy and excludes shipping, salaries, taxes and overhead.
 
 ## Summary KPIs (generated dataset)
-- Total revenue: **₹8,657,536.26**
-- Total profit: **₹2,423,886.26**
+- Total revenue: **₹10,527,536.26**
+- Total profit: **₹2,263,886.26**
 - Number of orders: **600**
-- Profit margin: **28.0%**
+- Profit margin: **21.46%**
 - Leading category by revenue: **Furniture**
 
 ## How to run
